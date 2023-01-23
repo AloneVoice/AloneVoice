@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and chess playing
 - 🌱 I’m currently learning Front-end
 - 💞️ I’m looking to collaborate on long term
-- 📫 How to reach me ... https://soven.pl
+- 📫 How to reach me ... https://devdraw.pl
 
 My HTML/CSS/RWD project: https://alonevoice.github.io/task-html-and-css-rwd/
 

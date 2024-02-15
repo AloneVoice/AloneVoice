@@ -6,6 +6,12 @@
 
 My HTML/CSS/RWD project: https://alonevoice.github.io/task-html-and-css-rwd/
 
+My new little projects:
+
+https://stoajki.org/near/
+https://devdraw.pl/mine/
+https://stojaki.org/matrix/
+
 <!---
 AloneVoice/AloneVoice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

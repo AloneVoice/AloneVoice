@@ -8,7 +8,7 @@ My HTML/CSS/RWD project: https://alonevoice.github.io/task-html-and-css-rwd/
 
 My new little projects:
 
-https://stoajki.org/near/
+https://stojaki.org/near/
 
 https://devdraw.pl/mine/
 

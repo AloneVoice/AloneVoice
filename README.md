@@ -5,7 +5,7 @@
 - 📫 How to reach me ... https://devdraw.pl
 
 ### My Dynamic Website Builder project:
-https://alonevoice.github.io/task-html-and-css-rwd/](https://github.com/AloneVoice/dynamic-website-builder
+https://github.com/AloneVoice/dynamic-website-builder
 
 My new little projects:
 
